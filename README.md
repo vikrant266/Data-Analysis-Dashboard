@@ -50,8 +50,8 @@ The goal of this project is to convert raw healthcare data into actionable insig
 
 ## 📈 Dashboard Preview
 
-*(Add your screenshot here)*  
-`![Dashboard](Dashboard_screenshot.png)`
+<img width="1126" height="566" alt="Screenshot 2025-12-02 144404" src="https://github.com/user-attachments/assets/b1b6ad1f-cf9b-45ad-a759-81a9b80c89c7" />
+
 
 ---
 
@@ -90,7 +90,7 @@ The goal of this project is to convert raw healthcare data into actionable insig
 _Data Analyst (TCS) | Excel • Power BI • SQL • Python_
 
 Connect on LinkedIn:  
-https://linkedin.com/in/YOUR-USERNAME
+[https://linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/vikrant-mahajan-b63a9520a/)
 
 ---
 
